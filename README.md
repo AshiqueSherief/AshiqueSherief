@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshiqueSherief
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, Angular
 - 💞️ I’m looking to collaborate on Gitlabs
 - 📫 How to reach me "https://www.linkedin.com/in/ashique-sherief-197974234/"
 
